@@ -1,5 +1,5 @@
 export const Bio = {
-  name: "Munideepa Vallambai",
+  name: "Rishabh Singh",
   roles: [
     "Full Stack Developer",
     "Software Developer",
@@ -7,10 +7,10 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/deepugi",
+  github: "https://github.com/singhrishabh018",
   resume:
-    "https://drive.google.com/file/d/1TIjCSkupW1S5jyRt2RnA5WOHeszBhoxy/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/munideepavallambai/",
+    "https://drive.google.com/file/d/1K6_HD_wWrQYOWSrlcO0Q7cgJdXvMvkC1/view?usp=drive_link",
+  linkedin: "https://www.linkedin.com/in/rishabh-singh-18r/",
 };
 
 export const skills = [
@@ -155,33 +155,30 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://upload.wikimedia.org/wikipedia/commons/a/ad/HP_logo_2012.svg",
-    role: "Software Developer",
-    company: "HP",
-    date: "March 2023 - June 2023",
-    desc: "I led a cross-functional team in developing the MPS Project, utilizing React.js, Redux, Node.js, Angular.js, Java Microservices, and JavaScript. Integration of Redux in React.js enhanced efficiency by 20%, while rigorous unit testing elevated code quality by 80%. Leveraging AWS services yielded a 30% cost reduction through optimized storage, monitoring enhancements, and serverless computing optimization.",
+    img: "https://upload.wikimedia.org/wikipedia/en/5/59/University_of_Cincinnati_logo.svg",
+    role: "Full Stack Intern",
+    company: "University of Cincinnati",
+    date: "January 2024 - Present",
+    desc: "Devising mitigation strategies for 20+ vulnerabilities to strengthen system robustness and long-term application resilience.",
     skills: [
       "ReactJS",
       "AngularJS",
       "Redux",
       "NodeJs",
-      "Java Microservices",
-      "SQL",
-      "S3",
-      "CloudWatch",
-      "Lambda",
-      "Junit",
-      "Mocha & Chai",
+      "MongoDB",
+      "Express",
+      "MySQL",
+      "Figma",
       "JavaScript",
     ],
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/C560BAQEEaQU0C9e7Dw/company-logo_200_200/0/1630639445158/presidio__logo?e=1717027200&v=beta&t=75REhb8fHgX48bzFeQozj7Ow96_mq2sQP1a4tZBso0g",
+    img: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg",
     role: "Software Engineer",
-    company: "Presidio",
-    date: "Sep 2020 - Jan 2023",
-    desc: "Led the development of Autodesk Virtual Assistant chatbot using React JS, Redux, and Node JS Serverless Architecture, fostering collaborative teamwork and boosting project efficiency. Integrated GraphQL with REST API, enhancing communication by 25%, and leveraged AWS components for serverless web apps, resulting in a 30% efficiency improvement. Transformed frontend design with Material UI theme in React JS, improving aesthetics by 20%, and demonstrated proficiency in automation testing with Selenium, boosting efficiency by 15%.",
+    company: "Accenture",
+    date: "Sep 2021 - Dec 2022",
+    desc: "Developed responsive single-page applications for finance team using Java, Spring Boot, Angular, and TypeScript, enhancing UI responsiveness and user experience by 70%,Collaborated on the migration of datasets from Cassandra to MariaDB using ETL and Python scripts. Utilized DBeaver for validation. Slashed page response time from 3.125 seconds to 2.5 seconds, ensuring high performance",
     skills: [
       "ReactJS",
       "AWS",
@@ -199,11 +196,11 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://www.ant.works/wp-content/uploads/2022/03/Frame-1.svg",
-    role: "Intern-Delivery",
-    company: "Antworks",
-    date: "Dec 2019 - May 2020",
-    desc: "I contributed to the development of a .NET desktop application using Windows Forms and C#, achieving a 20% improvement in application efficiency. Additionally, I collaborated closely with the development team, actively participating in meetings and assisting in collaborative tasks to meet project milestones.",
+    img: "https://commons.wikimedia.org/wiki/File:Toppr_logo.png#/media/File:Toppr_logo.png",
+    role: "Programmer",
+    company: "Toppr",
+    date: "March 2020 - Aug 2021",
+    desc: "Integrated RESTful APIs using Spring Cloud and incorporated OAuth2 tokens and JWT for secure authentication boosting system responsiveness by 30%.",
     skills: [
       "C#",
       "Window Forms",
@@ -214,21 +211,21 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://scontent.fluk1-1.fna.fbcdn.net/v/t39.30808-1/347789001_603348111761433_1252695304330161724_n.jpg?stp=dst-jpg_p480x480&_nc_cat=107&ccb=1-7&_nc_sid=596444&_nc_ohc=QWkizZTmi0wAX_f4EpL&_nc_ht=scontent.fluk1-1.fna&oh=00_AfCP1ufzul0Uy0RDnS-NkiPhdjF6OoBYA-OMvlEtl8AGgg&oe=65DEAAFE",
+    img: "https://upload.wikimedia.org/wikipedia/en/5/59/University_of_Cincinnati_logo.svg",
     school: "University Of Cincinnati",
-    date: "Aug 2023 - Dec 2024",
+    date: "Jan 2023 - April 2024",
     grade: "4 CGPA",
-    desc: "I am currently pursuing Master of Engineering in Computer Science  at University of Cincinnati, Ohio. I have completed my first semesters and have a CGPA of 4. I have taken courses in Operating Systems, Cloud Computing, Advanced Algorithms, Algorithms",
-    degree: "Master Of Engineering in Computer Science",
+    desc: "I am currently pursuing Master of Science in Information Technology  at University of Cincinnati, Ohio. I'm in my last semester and have a CGPA of 4. I have taken courses in Operating Systems, Cloud Computing, Advanced Algorithms, Algorithms",
+    degree: "Master Of Science in Information Technology",
   },
   {
     id: 1,
-    img: "https://upload.wikimedia.org/wikipedia/en/e/e6/Shanmugha_Arts%2C_Science%2C_Technology_%26_Research_Academy_logo.png",
-    school: "SASTRA University",
-    date: "Aug 2016 - July 2020",
-    grade: "8.2 CGPA",
-    desc: "I completed my Bachelor of Engineering in Information Technology with 8.2 CGPA where I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks.",
-    degree: "Bachelor Of Engineering in Information Technology",
+    img: "https://en.wikipedia.org/wiki/File:JNTU_Hyderabad_logo.png#/media/File:JNTU_Hyderabad_logo.png",
+    school: "JNTUH",
+    date: "Aug 2017 - July 2021",
+    grade: "7.2 CGPA",
+    desc: "I completed my Bachelor of Technology in Electronics and Communications Engineering with 7.2 CGPA where I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks.",
+    degree: "Bachelor of Technology in Electronics and Communications Engineering",
   },
 ];
 
